@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-import requests 
+import request
 import joblib 
 from tensorflow.keras.models import load_model
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
